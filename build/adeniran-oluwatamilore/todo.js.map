@@ -1,0 +1,1 @@
+{"version":3,"file":"todo.js","sourceRoot":"","sources":["../../src/adeniran-oluwatamilore/todo.ts"],"names":[],"mappings":";;AACA,MAAqB,IAAI;IAOzB,YAAY,IAAwE;QACjF,IAAI,CAAC,MAAM,GAAG,IAAI,CAAC,MAAM,CAAC;QACzB,IAAI,CAAC,EAAE,GAAG,IAAI,CAAC,EAAE,CAAC;QAClB,IAAI,CAAC,KAAK,GAAE,IAAI,CAAC,KAAK,CAAC;QACvB,IAAI,CAAC,SAAS,GAAE,IAAI,CAAC,SAAS,CAAC;IACnC,CAAC;CACI;AAbL,uBAaK"}
