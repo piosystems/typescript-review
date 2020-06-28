@@ -1,0 +1,32 @@
+{
+  "name": "typescript-review",
+  "version": "0.0.1",
+  "description": "ISM 210 TypeScript review class",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piosystems/typescript-review.git"
+  },
+  "keywords": [
+    "typescript",
+    "ism210"
+  ],
+  "author": "Pius Onobhayedo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/piosystems/typescript-review/issues"
+  },
+  "homepage": "https://github.com/piosystems/typescript-review#readme",
+  "devDependencies": {
+    "@types/node": "^13.13.6",
+    "typescript": "^3.9.2"
+  },
+  "dependencies": {
+    "@types/node-fetch": "^2.5.7",
+    "class-transformer": "^0.2.3",
+    "node-fetch": "^2.6.0"
+  }
+}
